@@ -1,0 +1,13 @@
+/* special elite, squada one, monoton, press start 2p */
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Press+Start+2P&display=swap');
+
+h1 {
+    font-family: 'Monoton', cursive;
+    font-weight: 200;
+    color: #0ccac4;
+}
+
+.card {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.1em;
+}
